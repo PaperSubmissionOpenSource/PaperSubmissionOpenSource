@@ -1,5 +1,4 @@
 title: Content understanding in Medical HAI systems
-description: Paper materials
 author: "Anonymous authors"
 
 theme: minima
@@ -15,9 +14,10 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
-  - _pages/about.md
-  - _pages/archive.md
+  - _pages/background.md
+  - _pages/design.md
+  - _pages/workshop.md
+  - _pages/coding.md
 
 include:
     - _pages
