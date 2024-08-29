@@ -4,7 +4,7 @@ layout: page
 title: Workshop
 ---
 
-<span style="color: blue;">Goals of the workshop</span>
+Goals of the workshop
 1.	Learn about the design patterns for medical HAI systems.
 2.	Re-design a medical HAI system you previously designed.
 3.	Reflect on the usage of our design patterns after the design.
