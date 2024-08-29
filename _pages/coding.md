@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /coding
 layout: page
 title: Coding
 ---
