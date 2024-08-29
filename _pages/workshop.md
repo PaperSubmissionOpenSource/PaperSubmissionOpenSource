@@ -7,12 +7,12 @@ title: Workshop
 Goals of the workshop
 1.	Learn about the design patterns for medical HAI systems.
 2.	Re-design a medical HAI system you previously designed.
-3.	Reflect the usage of our design patterns after the design.
+3.	Reflect on the usage of our design patterns after the design.
 
-Procedure of the workshop
+The procedure of the workshop
 1.	Introduce our design patterns with examples. (20 min)
-2.	Ask participants to reflect the medical HAI systems they have designed before. (10 min)
-3.	Ask participants to re-design the mock-up on Miro or Figma for one medical HAI systems they have designed before through our design patterns. (30 min)
+2.	Ask participants to reflect on the medical HAI systems they have designed before. (10 min)
+3.	Ask participants to re-design the mock-up on Miro or Figma for one medical HAI system they have designed before through our design patterns. (30 min)
 4.	Ask participants to introduce their mock-up and design rationale and reflect on their usage of our design patterns based on our interview questions. (30 min)
 5.	Make participants discuss with peers and draw further conclusions. (25 min)
 6.	Collect participants’ feedback on the usability of our design patterns. (5 min)
@@ -36,6 +36,5 @@ Strategy reflection
 
 Future Considerations
 8.	Do you have found some new design patterns during your design process?
-9.	What dimension do you think are missing from our current design patterns?
+9.	What dimensions do you think are missing from our current design patterns?
 10.	How do you envision the evolution of design patterns for medical HAI systems in the future?
-![image](https://github.com/user-attachments/assets/62005ab7-520a-4d7d-ac82-86767f8be907)
