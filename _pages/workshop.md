@@ -22,8 +22,6 @@ Goals of the interview
 2.	Explore usage strategies: Understand how participants plan to implement the design patterns if they choose to use them.
 3.	Identify additional opportunities: Investigate whether there are other possibilities that could benefit participants, to inform our future work.
 
------
-
 Questions of the interview
 Implementation and usability
 1.	Do you think you have refined your system through our design patterns? If so, in what specific aspects?
