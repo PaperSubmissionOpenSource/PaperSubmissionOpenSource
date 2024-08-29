@@ -1,5 +1,5 @@
 ---
 permalink: /archive
 layout: page
-title: Design
+title: Design patterns
 ---
